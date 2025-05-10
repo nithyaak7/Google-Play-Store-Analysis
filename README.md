@@ -13,15 +13,18 @@ The Google Play Store, being one of the largest digital distribution service pla
 8.	Is there a relationship between price and installs?
 9.	Do recently updated apps tend to have better ratings?
 
+
 **Project Files Description**
 
 This Project includes:
 1.	Jupyter Notebook file
 2.	Presentation PDF
 
+
 **Data Source**
 
 The dataset for this project comes from Kaggle, save here: https://drive.google.com/file/d/1DGRlchH7UPHhTXgIqJ7TSQuxC2ky0hO4/view?usp=drive_link.
+
 
 **Features**
 
@@ -48,6 +51,7 @@ Last Updated: Release date of the most recent update for the app.
 Current Ver: The app's current version.
 
 Android Ver: The oldest version of Android OS supported by the app.
+
 
 **Packages**
 1. Numpy
