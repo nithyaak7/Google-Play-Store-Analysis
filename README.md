@@ -1,4 +1,5 @@
 Introduction
+
 The Google Play Store, being one of the largest digital distribution service platforms, hosts millions of apps spanning various categories and genres. Understanding the patterns and trends in this dataset can provide valuable insights to developers, investors, and marketers. The goal of this study is to analyze the Google Play Store dataset, focusing on answering the following questions:
 1.	Which app categories have the highest average rating?
 2.	Which categories have the most installs on average?
@@ -11,14 +12,17 @@ The Google Play Store, being one of the largest digital distribution service pla
 9.	Do recently updated apps tend to have better ratings?
 
 Project Files Description
+
 This Project includes:
 1.	Jupyter Notebook file
 2.	Presentation PDF
 
 Data Source
+
 The dataset for this project comes from Kaggle, save here: https://drive.google.com/file/d/1DGRlchH7UPHhTXgIqJ7TSQuxC2ky0hO4/view?usp=drive_link.
 
 Features
+
 App Category: Category of the app. This could be beauty, business, entertainment, education...etc.
 Rating: How users rate the app out of 5, with 1 being the lowest rating and 5 being the highest.
 Reviews: The number of user reviews each app has received.
