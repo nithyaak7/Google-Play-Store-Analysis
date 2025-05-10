@@ -48,3 +48,9 @@ Last Updated: Release date of the most recent update for the app.
 Current Ver: The app's current version.
 
 Android Ver: The oldest version of Android OS supported by the app.
+
+**Packages**
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
