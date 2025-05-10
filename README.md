@@ -1,3 +1,5 @@
+# PROJECT-PORTFOLIO -- Google Playstore -- Data Analysis with Python
+
 **Introduction**
 
 The Google Play Store, being one of the largest digital distribution service platforms, hosts millions of apps spanning various categories and genres. Understanding the patterns and trends in this dataset can provide valuable insights to developers, investors, and marketers. The goal of this study is to analyze the Google Play Store dataset, focusing on answering the following questions:
