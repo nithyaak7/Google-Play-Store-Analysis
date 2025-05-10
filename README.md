@@ -21,17 +21,28 @@ Data Source
 
 The dataset for this project comes from Kaggle, save here: https://drive.google.com/file/d/1DGRlchH7UPHhTXgIqJ7TSQuxC2ky0hO4/view?usp=drive_link.
 
-Features
+**Features**
 
 App Category: Category of the app. This could be beauty, business, entertainment, education...etc.
+
 Rating: How users rate the app out of 5, with 1 being the lowest rating and 5 being the highest.
+
 Reviews: The number of user reviews each app has received.
+
 Size: The memory size needed to install the application.
+
 Installs: The number of times each application has been installed by users.
+
 Type: Whether the app is free or a paid app.
+
 Price: The price of the app.
+
 Content Rating: This column specifies the intended audience for the app. Can be for teens, mature audiences, or everyone.
+
 Genres: The sub-category for each app. Example: for the Education category, this could be Education: Pretend Play, for example.
+
 Last Updated: Release date of the most recent update for the app.
+
 Current Ver: The app's current version.
+
 Android Ver: The oldest version of Android OS supported by the app.
