@@ -1,5 +1,5 @@
 # PROJECT-PORTFOLIO -- Google Playstore -- Data Analysis with Python
-![Uploading google playstore analysis.PNG…]()
+![My Image](https://github.com/nithyaak7/Google-Play-Store-Analysis/blob/main/google%20playstore%20analysis.PNG)
 
 **Introduction**
 
