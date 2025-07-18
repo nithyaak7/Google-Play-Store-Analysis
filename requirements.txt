@@ -1,0 +1,32 @@
+Essential Libraries:
+Core Data Analysis
+
+pandas - Your main data manipulation tool (DataFrames, groupby, cleaning)
+numpy - Numerical computations and array operations
+
+Statistical Analysis
+
+scipy - For your ANOVA testing (f_oneway) and statistical functions
+
+Data Visualization
+
+matplotlib - Base plotting library for charts and graphs
+seaborn - Statistical visualizations and better-looking plots
+
+Development Environment
+
+jupyter - Jupyter ecosystem
+notebook - For running .ipynb files
+
+Optional but Recommended:
+Advanced Visualization
+
+plotly - Interactive charts (great for portfolio presentations)
+
+Machine Learning (if you extend the analysis)
+
+scikit-learn - For any clustering or predictive modeling
+
+Data Export
+
+openpyxl - For Excel file handling if needed
